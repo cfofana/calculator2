@@ -1,0 +1,35 @@
+body, html{
+    height:90%;
+}
+a{
+    cursor:pointer;
+    text-decoration:none;
+    display:inline-block;
+    text-align:center;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin:10px;
+}
+.container{
+    height:80%;
+}
+.display{
+    width: 90%;
+    height:10%;
+    text-align:right;
+    margin-bottom:10px;
+    border:1px solid black;
+    font-size: 30px;
+}
+.operators{
+    width:90%;
+}
+.operators a{
+    width:45px;
+}
+.numbers{
+    width:90%;
+}
+.numbers a{
+    width:45px;
+}
