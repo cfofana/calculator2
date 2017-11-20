@@ -70,8 +70,8 @@ $(function(){
         else if(operator == "/"){
             total = divide(firstNumber, number);
         }
-        else{
-            screenText.text("Did you forget the operator...");
+        else {
+            screenText.text(number);
         }
         
         total = total.toString(10);
